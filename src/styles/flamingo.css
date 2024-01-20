@@ -1,0 +1,35 @@
+.flamingo {
+    background: #FFF2F8;
+    padding: 30px;
+    width: 100%;
+}
+
+.flamingo h1 {
+    color: #000;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    text-align: center;
+}
+
+.bird_div {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.cont_main_div {
+    padding: 10px 30px;
+}
+
+.content_div {
+    display: flex;
+}
+
+.check {
+    color: #FA5C98;
+}
+
+.check_con {
+    margin-left: 10px;
+}

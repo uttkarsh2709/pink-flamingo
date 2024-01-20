@@ -1,0 +1,114 @@
+[
+    {
+        "id": "dhoopcones",
+        "name": "DHOOP INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "2.05",
+        "image": "././images/2.png"
+    },
+    {
+        "id": "hemincense",
+        "name": "HEM Incense",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "1.05",
+        "image": "././images/1.png"
+    },
+    {
+        "id": "mysticincense",
+        "name": "Mystic Temple Incense",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "2.75",
+        "image": "././images/3.png"
+    },
+    {
+        "id": "sacincense",
+        "name": "SAC Incense",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "5.05",
+        "image": "././images/4.png"
+    },
+    {
+        "id": "franincense",
+        "name": "Frankincense and Myrrh",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "3.05",
+        "image": "././images/6.png"
+    },
+    {
+        "id": "eucalyptus",
+        "name": "Eucalyptus INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "10.05",
+        "image": "././images/9.png"
+    },
+    {
+        "id": "lavender",
+        "name": "Lavender INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "4.05",
+        "image": "././images/12.png"
+    },
+    {
+        "id": "sageincense",
+        "name": "Sage INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "0.75",
+        "image": "././images/15.png"
+    },
+    {
+        "id": "frankincense",
+        "name": "Frankincense and Myrrh",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "3.05",
+        "image": "././images/carousel1.png"
+    },
+    {
+        "id": "eucalyptus",
+        "name": "Eucalyptus INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "10.05",
+        "image": "././images/16.png"
+    },
+    {
+        "id": "orange",
+        "name": "Orange Blossom INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "2.06",
+        "image": "././images/10.png"
+    },
+    {
+        "id": "musk",
+        "name": "Musk INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "11.07",
+        "image": "././images/13.png"
+    },
+    {
+        "id": "bergamot",
+        "name": "Bergamot and Myrrh",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "3.06",
+        "image": "././images/5.png"
+    },
+    {
+        "id": "gardenia",
+        "name": "Gardenia INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "1.05",
+        "image": "././images/8.png"
+    },
+    {
+        "id": "yerbacones",
+        "name": "Yerba Santa INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "1.05",
+        "image": "././images/11.png"
+    },
+    {
+        "id": "sageincensecones",
+        "name": "Sage INCENSE CONES",
+        "description": "4 IN 1 Long 100 Pcs Dhoop Cones For Regular Use",
+        "price": "2.05",
+        "image": "././images/14.png"
+    }
+]

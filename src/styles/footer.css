@@ -1,0 +1,129 @@
+.footer_main_div {
+    background-color: #FA5C98;
+    width: 100%;
+    margin-top: 50px;
+}
+
+.news_letter {
+    border-bottom: 2px solid #fff;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.mail_signup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mail_signup p {
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.mail_signup .mail-icon {
+    height: 38px;
+    width: 38px;
+    color: #fff;
+    margin-right: 20px;
+    margin-top: -12px;
+    cursor: pointer;
+}
+
+.footer-form {
+    width: 592px;
+    background-color: #fff;
+    border-radius: 8px;
+    height: 49px;
+    display: flex;
+}
+
+.footer-form input {
+    background: none;
+    border: none;
+    outline: none;
+    height: 49px;
+    width: 100%;
+    padding-left: 20px;
+}
+
+.footer-form button {
+    margin: 5px;
+    border-radius: 8px;
+    text-transform: uppercase;
+    width: 113px;
+    background-color: #FA5C98;
+    color: #fff;
+    border: none;
+    font-size: 15px;
+    padding: 0 20px;
+    font-weight: 500;
+}
+
+.footer_main_div ul {
+    padding: 0;
+}
+
+.footer_main_div ul li {
+    list-style: none;
+    font-size: 12px;
+}
+
+.footer_main_div h5 {
+    font-size: 20px;
+}
+
+.bottom-footer {
+    padding: 66px;
+    margin-right: 0;
+    margin-left: 0;
+}
+
+
+.SocialIcons {
+    width: 162px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-icon {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 5px;
+}
+
+.footer_link {
+    text-decoration: none;
+    color: white;
+}
+
+.footer_link:hover {
+    color: blue;
+}
+
+@media (max-width:991px) {
+    .bottom-footer {
+        width: 100%;
+        padding: 10px !important;
+    }
+
+    .footer_main_div ul li {
+        font-size: 15px;
+    }
+
+    .footer_main_div h5 {
+        font-size: 28px;
+    }
+
+    .news_letter {
+        height: 150px;
+        --bs-gutter-x: 0;
+        padding: 20px;
+    }
+}

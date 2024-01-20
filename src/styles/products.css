@@ -1,0 +1,81 @@
+.products_main_div {
+    margin-top: 200px;
+}
+
+.breadcumb_link {
+    color: #C1C1C1;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.arrow_breadcumb {
+    color: #C1C1C1;
+    font-size: 15px;
+    margin: 0 3px;
+}
+
+.drop_down {
+    border-radius: 19px;
+    border: 2px solid #B7B7B7;
+    background: rgba(255, 255, 255, 0.00);
+    width: 112px;
+}
+
+.drop_down_div {
+    display: flex;
+}
+
+.card_container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.card_style {
+    border: none;
+}
+
+.product_link {
+    text-decoration: none;
+}
+
+.product_name {
+    color: #FA5C98;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+}
+
+.ratings svg {
+    font-size: 15px;
+    color: orange;
+}
+
+.price {
+    margin-top: 10px;
+}
+
+.price p b {
+    color: #C0590E;
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.pages{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.page_btn{
+    margin-left: 10px;
+}
